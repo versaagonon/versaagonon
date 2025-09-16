@@ -61,7 +61,7 @@
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=versaagonon&theme=dark&hide_border=true" alt="Streak"/>
+  <img align="center" src="https://streak-stats.demolab.com/?user=versaagonon&theme=dark&hide_border=true" alt="Streak"/>
 </p>
 
 <p align="center">
