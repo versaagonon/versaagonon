@@ -61,8 +61,11 @@
 </p>
 
 <p align="center">
-  <img align="center" src="https://streak-stats.demolab.com/?user=versaagonon&theme=dark&hide_border=true" alt="Streak"/>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=versaaagonon&theme=onedark-duo&exclude_days=Sun%2CSat" alt="GitHub Streak"/>
+  </a>
 </p>
+
 
 <p align="center">
   <sub>Legend never dies. Code never sleeps. ⚡</sub>
