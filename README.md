@@ -59,11 +59,8 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=versaagonon&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
-
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=versaaagonon&theme=onedark-duo&exclude_days=Sun%2CSat" alt="GitHub Streak"/>
-  </a>
+  <p align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=versaagonon&theme=highcontrast" alt="GitHub Streak" /></a>
 </p>
 
 
