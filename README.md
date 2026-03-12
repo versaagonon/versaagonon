@@ -47,13 +47,6 @@
 </table>
 
 <h3 align="center">📊 My GitHub Stats & Trophies</h3>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-readme-stats.vercel.app/api?username=versaagonon&show_icons=true&theme=tokyonight">
-  </a>
-</p>
-
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=versaagonon&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
