@@ -50,7 +50,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=versaagonon&theme=dracula&column=7" alt="Trophies" />
+    <img src="https://github-readme-stats.vercel.app/api?username=versaagonon&show_icons=true&theme=tokyonight">
   </a>
 </p>
 
