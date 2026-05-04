@@ -88,6 +88,7 @@ coffee      = Critical dependency (unresolved)
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=versaagonon&bg_color=0d1117&color=00ff88&line=00ff88&point=ff6b35&area=true&area_color=00ff8820&hide_border=true&custom_title=Versaagonon's%20Contribution%20Graph" />
 
 </div>
+
 ---
 ## `> connect --social`
 
