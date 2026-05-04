@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&multiline=false&width=600&lines=Cybersecurity+Enthusiast+%F0%9F%94%90;Android+APK+Reverse+Engineer+%F0%9F%94%8D;CTF+Player+%26+Security+Researcher+%F0%9F%9A%A9;Always+learning.+Always+hunting.+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&multiline=false&width=600&lines=Cybersecurity+Enthusiast;Android+APK+Reverse+Engineer;CTF+Player+%26+Security+Researcher;Always+learning.+Always+hunting." alt="Typing SVG" />
 </a>
 
 <br/>
@@ -47,7 +47,7 @@ coffee      = Critical dependency (unresolved)
 
 <div align="center">
 
-### 🔐 Security & Reverse Engineering
+### Security & Reverse Engineering
 ![Android](https://img.shields.io/badge/Android_RE-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Frida](https://img.shields.io/badge/Frida-FF6B35?style=for-the-badge&logo=frida&logoColor=white)
 ![Ghidra](https://img.shields.io/badge/Ghidra-FF0000?style=for-the-badge&logo=gnu&logoColor=white)
@@ -55,14 +55,14 @@ coffee      = Critical dependency (unresolved)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
 
-### 💻 Programming Languages
+### Programming Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00427E?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-808080?style=for-the-badge&logo=assemblyscript&logoColor=white)
 
-### 🛠️ Tools & Environment
+### Tools & Environment
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -75,43 +75,12 @@ coffee      = Critical dependency (unresolved)
 ---
 
 ## `> stat --github`
-
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=versaagonon&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=versaagonon&layout=compact&langs_count=7&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9"/>
-
-</div>
-
-<div align="center">
-
 <img src="https://streak-stats.demolab.com?user=versaagonon&theme=terminal&hide_border=true&background=0D1117&stroke=00ff88&ring=00ff88&fire=ff6b35&currStreakNum=00ff88&sideNums=00ff88&currStreakLabel=8be9fd&sideLabels=8be9fd&dates=6e7681" />
 
 </div>
 
 ---
-
-## `> ctf --activity`
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════╗
-║              CTF & RESEARCH FOCUS AREAS              ║
-╠══════════════════════════════════════════════════════╣
-║  📱 Android APK Reverse Engineering                  ║
-║  🔍 Static & Dynamic Analysis                        ║
-║  🌐 Web Application Security                         ║
-║  🔒 Cryptography Challenges                          ║
-║  💥 Binary Exploitation (PWN)                        ║
-║  🕵️  Forensics & Steganography                       ║
-╚══════════════════════════════════════════════════════╝
-```
-
-</div>
-
----
-
 ## `> contribution --graph`
 
 <div align="center">
@@ -119,9 +88,7 @@ coffee      = Critical dependency (unresolved)
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=versaagonon&bg_color=0d1117&color=00ff88&line=00ff88&point=ff6b35&area=true&area_color=00ff8820&hide_border=true&custom_title=Versaagonon's%20Contribution%20Graph" />
 
 </div>
-
 ---
-
 ## `> connect --social`
 
 <div align="center">
@@ -135,31 +102,5 @@ coffee      = Critical dependency (unresolved)
 <a href="https://github.com/versaagonon" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-</div>
-
----
-
-<div align="center">
-
-<!-- Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/versaagonon/versaagonon/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/versaagonon/versaagonon/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/versaagonon/versaagonon/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-
-</div>
-
----
-
-<div align="center">
-
-```bash
-$ echo "Legend never dies. Code never sleeps. ⚡"
-Legend never dies. Code never sleeps. ⚡
-```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d0d0d&height=120&section=footer&text=&fontSize=0" />
 
 </div>
