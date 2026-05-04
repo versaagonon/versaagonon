@@ -1,62 +1,165 @@
-<p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExODM3aHB6Z2t5OXNxdjAxcGlsZXQwZXpyMmNoODFkZzd6bnp4dnJqbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaV9pZCZjdD1n/MCXgiBVDl8QtojG1fU/giphy.gif" 
-       alt="Cybersecurity Banner" width="600"/>
-</p>
+<div align="center">
 
-<h1 align="center">Hi there, I'm Versaagonon 👋</h1>
-<h3 align="center">"Known as Random people and random repo :3".</h3>
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a2e,100:16213e&height=200&section=header&text=VERSAAGONON&fontSize=60&fontColor=00ff88&fontAlignY=38&desc=Security%20Researcher%20%7C%20Reverse%20Engineer%20%7C%20CTF%20Player&descAlignY=58&descSize=16&descColor=8be9fd&animation=fadeIn" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=versaagonon&label=Profile%20Views&color=1e90ff&style=flat-square" alt="profile views"/>
-</p>
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&multiline=false&width=600&lines=Cybersecurity+Enthusiast+%F0%9F%94%90;Android+APK+Reverse+Engineer+%F0%9F%94%8D;CTF+Player+%26+Security+Researcher+%F0%9F%9A%A9;Always+learning.+Always+hunting.+%E2%9A%A1" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- Profile Views + Followers -->
+<img src="https://komarev.com/ghpvc/?username=versaagonon&label=Profile+Views&color=00ff88&style=flat-square" />
+<img src="https://img.shields.io/github/followers/versaagonon?label=Followers&style=flat-square&color=00ff88&labelColor=0d1117" />
+
+</div>
 
 ---
 
-<h3 align="center">🤝 Connect with Me</h3>
-<p align="center">
-  <a href="mailto:versaaggg@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/versaagonon" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
+## `> whoami`
 
+```bash
+$ cat /etc/versaagonon/profile.conf
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <h3>👨‍💻 About Me</h3>
-      <ul>
-        <li>Enthusiast in cybersecurity and software development</li>
-        <li>Experienced in reverse engineering, security analysis, and ethical hacking</li>
-        <li>Skilled in <strong>C, C++, and Python</strong></li>
-        <li>Open to collaborating on meaningful security research and software projects</li>
-        <li>xAlways learning advanced cybersecurity techniques</li>
-      </ul>
-    </td>
-    <td valign="top" width="50%">
-      <h3>🛠️ Languages & Tools</h3>
-      <p align="left">
-        <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
-        <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
-        <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-      </p>
-    </td>
-  </tr>
-</table>
+[identity]
+name        = Versaagonon
+alias       = Random people, random repo :3
+location    = Indonesia
+status      = Active threat to ignorance
 
-<h3 align="center">📊 My GitHub Stats & Trophies</h3>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=versaagonon&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=versaagonon&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages"/>
-</p>
-  <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=versaagonon&theme=highcontrast" alt="GitHub Streak" /></a>
-</p>
+[expertise]
+primary     = Cybersecurity & Reverse Engineering
+secondary   = Software Development
+languages   = C, C++, Python
+domains     = APK Analysis, CTF, Ethical Hacking, Mobile Security
 
+[status]
+mode        = Always learning
+target      = Mastery of offensive & defensive security
+coffee      = Critical dependency (unresolved)
+```
 
-<p align="center">
-  <sub>Legend never dies. Code never sleeps. ⚡</sub>
-</p>
+---
+
+## `> skills --list`
+
+<div align="center">
+
+### 🔐 Security & Reverse Engineering
+![Android](https://img.shields.io/badge/Android_RE-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Frida](https://img.shields.io/badge/Frida-FF6B35?style=for-the-badge&logo=frida&logoColor=white)
+![Ghidra](https://img.shields.io/badge/Ghidra-FF0000?style=for-the-badge&logo=gnu&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+
+### 💻 Programming Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00427E?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-808080?style=for-the-badge&logo=assemblyscript&logoColor=white)
+
+### 🛠️ Tools & Environment
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![ADB](https://img.shields.io/badge/ADB-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+</div>
+
+---
+
+## `> stat --github`
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=versaagonon&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=versaagonon&layout=compact&langs_count=7&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=versaagonon&theme=terminal&hide_border=true&background=0D1117&stroke=00ff88&ring=00ff88&fire=ff6b35&currStreakNum=00ff88&sideNums=00ff88&currStreakLabel=8be9fd&sideLabels=8be9fd&dates=6e7681" />
+
+</div>
+
+---
+
+## `> ctf --activity`
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════╗
+║              CTF & RESEARCH FOCUS AREAS              ║
+╠══════════════════════════════════════════════════════╣
+║  📱 Android APK Reverse Engineering                  ║
+║  🔍 Static & Dynamic Analysis                        ║
+║  🌐 Web Application Security                         ║
+║  🔒 Cryptography Challenges                          ║
+║  💥 Binary Exploitation (PWN)                        ║
+║  🕵️  Forensics & Steganography                       ║
+╚══════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+## `> contribution --graph`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=versaagonon&bg_color=0d1117&color=00ff88&line=00ff88&point=ff6b35&area=true&area_color=00ff8820&hide_border=true&custom_title=Versaagonon's%20Contribution%20Graph" />
+
+</div>
+
+---
+
+## `> connect --social`
+
+<div align="center">
+
+<a href="mailto:versaaggg@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/versaagonon" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/versaagonon" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<!-- Snake Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/versaagonon/versaagonon/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/versaagonon/versaagonon/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/versaagonon/versaagonon/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+```bash
+$ echo "Legend never dies. Code never sleeps. ⚡"
+Legend never dies. Code never sleeps. ⚡
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d0d0d&height=120&section=footer&text=&fontSize=0" />
+
+</div>
