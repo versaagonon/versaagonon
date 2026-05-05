@@ -12,7 +12,6 @@
 
 <!-- Profile Views + Followers -->
 <img src="https://komarev.com/ghpvc/?username=versaagonon&label=Profile+Views&color=00ff88&style=flat-square" />
-<img src="https://img.shields.io/github/followers/versaagonon?label=Followers&style=flat-square&color=00ff88&labelColor=0d1117" />
 
 </div>
 
