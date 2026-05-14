@@ -86,6 +86,10 @@ coffee      = Critical dependency (unresolved)
 
 </div>
 
+<div align="center"> 
+  <img width="780" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="contribution snake"/>
+</div>
+
 ---
 ## `> connect --social`
 
